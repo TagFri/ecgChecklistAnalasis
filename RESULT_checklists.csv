@@ -1,0 +1,7 @@
+number of variables,combination,#abnormale,%abnormale
+7,"['rhythem', 'frequency', 'pr-interval', 'st-depression', 't-inversion', ' axis ', 'sokolow']",244,0.953125
+7,"['rhythem', 'frequency', 'pr-interval', 'st-depression', 't-inversion', ' axis ', 'cornell']",244,0.953125
+7,"['rhythem', 'frequency', 'st-elevation', 'st-depression', 't-inversion', ' axis ', 'sokolow']",244,0.953125
+7,"['rhythem', 'frequency', 'st-elevation', 'st-depression', 't-inversion', ' axis ', 'cornell']",244,0.953125
+7,"['rhythem', 'frequency', 'st-depression', 't-inversion', ' axis ', 'sokolow', 'cornell']",245,0.95703125
+7,"['rhythem', 'frequency', 'st-depression', 't-inversion', ' axis ', 'cornell', 'p-intervall']",244,0.953125
